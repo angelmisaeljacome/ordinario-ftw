@@ -1,0 +1,32 @@
+.card{
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+#cardProductos{
+    background: #F0FFFF;
+}
+
+#cardOfertas{
+    background: #F5F5DC;
+}
+
+#cardProveedores{
+    background: #FFFAF0;
+}
+
+#cardContacto{
+    background: #FFF0F5;
+}
+
+#Header{
+    border-radius: 10px;
+    text-align: center;
+    background: #E0FFFF;
+}
+
+p{
+    color: #5F9EA0;
+}
