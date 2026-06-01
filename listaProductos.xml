@@ -1,0 +1,1603 @@
+<?xml version="1.0" ?>
+<productos>
+  <producto>
+    <id>1</id>
+    <nombre>Laptop Gamer Mod. 101</nombre>
+    <precio>13800</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Laptop para videojuegos de última generación</descripcion>
+    <imagen>https://picsum.photos/id/180/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>2</id>
+    <nombre>Licuadora de Alta Potencia Mod. 102</nombre>
+    <precio>2370</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Licuadora con vaso de vidrio y 3 velocidades</descripcion>
+    <imagen>https://picsum.photos/id/425/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>3</id>
+    <nombre>Balón de Fútbol Mod. 103</nombre>
+    <precio>1624</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Balón oficial de tamaño 5 de alta resistencia</descripcion>
+    <imagen>https://picsum.photos/id/1077/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>4</id>
+    <nombre>Reloj de Pulsera Elegante Mod. 104</nombre>
+    <precio>1240</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Reloj analógico con extensible de cuero</descripcion>
+    <imagen>https://picsum.photos/id/357/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>5</id>
+    <nombre>Teclado Mecánico Mod. 105</nombre>
+    <precio>3701</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Teclado retroiluminado RGB con switches red</descripcion>
+    <imagen>https://picsum.photos/id/366/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>6</id>
+    <nombre>Aspiradora Robot Mod. 106</nombre>
+    <precio>1814</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Aspiradora inteligente con mapeo de habitaciones</descripcion>
+    <imagen>https://picsum.photos/id/142/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>7</id>
+    <nombre>Gorra Deportiva Mod. 107</nombre>
+    <precio>2687</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Gorra transpirable ideal para running</descripcion>
+    <imagen>https://picsum.photos/id/651/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>8</id>
+    <nombre>Vestido de Verano Mod. 108</nombre>
+    <precio>798</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Vestido corto y fresco con estampado floral</descripcion>
+    <imagen>https://picsum.photos/id/786/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>9</id>
+    <nombre>Cámara DSLR Mod. 109</nombre>
+    <precio>15438</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Cámara fotográfica profesional de 24MP</descripcion>
+    <imagen>https://picsum.photos/id/250/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>10</id>
+    <nombre>Espejo de Maquillaje Mod. 110</nombre>
+    <precio>3636</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Espejo con luz LED y aumento de 5x</descripcion>
+    <imagen>https://picsum.photos/id/649/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>11</id>
+    <nombre>Tapete de Yoga Mod. 111</nombre>
+    <precio>2969</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Tapete antideslizante de alta densidad</descripcion>
+    <imagen>https://picsum.photos/id/504/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>12</id>
+    <nombre>Tenis Casuales Mod. 112</nombre>
+    <precio>590</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Tenis cómodos para uso diario de lona</descripcion>
+    <imagen>https://picsum.photos/id/681/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>13</id>
+    <nombre>Audífonos Bluetooth Mod. 113</nombre>
+    <precio>14849</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Audífonos inalámbricos con cancelación de ruido</descripcion>
+    <imagen>https://picsum.photos/id/10/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>14</id>
+    <nombre>Juego de Sarténes Mod. 114</nombre>
+    <precio>324</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Set de 3 sartenes antiadherentes</descripcion>
+    <imagen>https://picsum.photos/id/30/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>15</id>
+    <nombre>Bicicleta de Montaña Mod. 115</nombre>
+    <precio>1066</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Bicicleta rodada 29 con 21 velocidades</descripcion>
+    <imagen>https://picsum.photos/id/146/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>16</id>
+    <nombre>Cartera de Piel Mod. 116</nombre>
+    <precio>518</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Cartera clásica con compartimentos para tarjetas</descripcion>
+    <imagen>https://picsum.photos/id/452/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>17</id>
+    <nombre>Smartwatch Mod. 117</nombre>
+    <precio>3159</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Reloj inteligente con monitor de ritmo cardíaco</descripcion>
+    <imagen>https://picsum.photos/id/2/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>18</id>
+    <nombre>Termo de Acero Mod. 118</nombre>
+    <precio>3055</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Termo de 1 litro que mantiene frío y calor</descripcion>
+    <imagen>https://picsum.photos/id/429/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>19</id>
+    <nombre>Botella de Agua Deportiva Mod. 119</nombre>
+    <precio>7886</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Botella con sistema de apertura rápida 750ml</descripcion>
+    <imagen>https://picsum.photos/id/514/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>20</id>
+    <nombre>Playera de Algodón Mod. 120</nombre>
+    <precio>960</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Playera básica cuello redondo color blanco</descripcion>
+    <imagen>https://picsum.photos/id/686/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>21</id>
+    <nombre>Laptop Gamer Mod. 121</nombre>
+    <precio>10931</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Laptop para videojuegos de última generación</descripcion>
+    <imagen>https://picsum.photos/id/180/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>22</id>
+    <nombre>Licuadora de Alta Potencia Mod. 122</nombre>
+    <precio>4327</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Licuadora con vaso de vidrio y 3 velocidades</descripcion>
+    <imagen>https://picsum.photos/id/425/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>23</id>
+    <nombre>Balón de Fútbol Mod. 123</nombre>
+    <precio>2180</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Balón oficial de tamaño 5 de alta resistencia</descripcion>
+    <imagen>https://picsum.photos/id/1077/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>24</id>
+    <nombre>Reloj de Pulsera Elegante Mod. 124</nombre>
+    <precio>583</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Reloj analógico con extensible de cuero</descripcion>
+    <imagen>https://picsum.photos/id/357/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>25</id>
+    <nombre>Teclado Mecánico Mod. 125</nombre>
+    <precio>8166</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Teclado retroiluminado RGB con switches red</descripcion>
+    <imagen>https://picsum.photos/id/366/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>26</id>
+    <nombre>Aspiradora Robot Mod. 126</nombre>
+    <precio>2450</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Aspiradora inteligente con mapeo de habitaciones</descripcion>
+    <imagen>https://picsum.photos/id/142/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>27</id>
+    <nombre>Gorra Deportiva Mod. 127</nombre>
+    <precio>6647</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Gorra transpirable ideal para running</descripcion>
+    <imagen>https://picsum.photos/id/651/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>28</id>
+    <nombre>Vestido de Verano Mod. 128</nombre>
+    <precio>321</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Vestido corto y fresco con estampado floral</descripcion>
+    <imagen>https://picsum.photos/id/786/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>29</id>
+    <nombre>Cámara DSLR Mod. 129</nombre>
+    <precio>1602</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Cámara fotográfica profesional de 24MP</descripcion>
+    <imagen>https://picsum.photos/id/250/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>30</id>
+    <nombre>Espejo de Maquillaje Mod. 130</nombre>
+    <precio>2676</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Espejo con luz LED y aumento de 5x</descripcion>
+    <imagen>https://picsum.photos/id/649/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>31</id>
+    <nombre>Tapete de Yoga Mod. 131</nombre>
+    <precio>4771</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Tapete antideslizante de alta densidad</descripcion>
+    <imagen>https://picsum.photos/id/504/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>32</id>
+    <nombre>Tenis Casuales Mod. 132</nombre>
+    <precio>1654</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Tenis cómodos para uso diario de lona</descripcion>
+    <imagen>https://picsum.photos/id/681/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>33</id>
+    <nombre>Audífonos Bluetooth Mod. 133</nombre>
+    <precio>17933</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Audífonos inalámbricos con cancelación de ruido</descripcion>
+    <imagen>https://picsum.photos/id/10/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>34</id>
+    <nombre>Juego de Sarténes Mod. 134</nombre>
+    <precio>3734</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Set de 3 sartenes antiadherentes</descripcion>
+    <imagen>https://picsum.photos/id/30/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>35</id>
+    <nombre>Bicicleta de Montaña Mod. 135</nombre>
+    <precio>4967</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Bicicleta rodada 29 con 21 velocidades</descripcion>
+    <imagen>https://picsum.photos/id/146/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>36</id>
+    <nombre>Cartera de Piel Mod. 136</nombre>
+    <precio>1280</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Cartera clásica con compartimentos para tarjetas</descripcion>
+    <imagen>https://picsum.photos/id/452/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>37</id>
+    <nombre>Smartwatch Mod. 137</nombre>
+    <precio>1910</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Reloj inteligente con monitor de ritmo cardíaco</descripcion>
+    <imagen>https://picsum.photos/id/2/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>38</id>
+    <nombre>Termo de Acero Mod. 138</nombre>
+    <precio>2405</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Termo de 1 litro que mantiene frío y calor</descripcion>
+    <imagen>https://picsum.photos/id/429/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>39</id>
+    <nombre>Botella de Agua Deportiva Mod. 139</nombre>
+    <precio>4780</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Botella con sistema de apertura rápida 750ml</descripcion>
+    <imagen>https://picsum.photos/id/514/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>40</id>
+    <nombre>Playera de Algodón Mod. 140</nombre>
+    <precio>1236</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Playera básica cuello redondo color blanco</descripcion>
+    <imagen>https://picsum.photos/id/686/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>41</id>
+    <nombre>Laptop Gamer Mod. 141</nombre>
+    <precio>2739</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Laptop para videojuegos de última generación</descripcion>
+    <imagen>https://picsum.photos/id/180/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>42</id>
+    <nombre>Licuadora de Alta Potencia Mod. 142</nombre>
+    <precio>3120</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Licuadora con vaso de vidrio y 3 velocidades</descripcion>
+    <imagen>https://picsum.photos/id/425/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>43</id>
+    <nombre>Balón de Fútbol Mod. 143</nombre>
+    <precio>1347</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Balón oficial de tamaño 5 de alta resistencia</descripcion>
+    <imagen>https://picsum.photos/id/1077/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>44</id>
+    <nombre>Reloj de Pulsera Elegante Mod. 144</nombre>
+    <precio>536</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Reloj analógico con extensible de cuero</descripcion>
+    <imagen>https://picsum.photos/id/357/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>45</id>
+    <nombre>Teclado Mecánico Mod. 145</nombre>
+    <precio>14367</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Teclado retroiluminado RGB con switches red</descripcion>
+    <imagen>https://picsum.photos/id/366/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>46</id>
+    <nombre>Aspiradora Robot Mod. 146</nombre>
+    <precio>3919</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Aspiradora inteligente con mapeo de habitaciones</descripcion>
+    <imagen>https://picsum.photos/id/142/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>47</id>
+    <nombre>Gorra Deportiva Mod. 147</nombre>
+    <precio>689</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Gorra transpirable ideal para running</descripcion>
+    <imagen>https://picsum.photos/id/651/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>48</id>
+    <nombre>Vestido de Verano Mod. 148</nombre>
+    <precio>1671</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Vestido corto y fresco con estampado floral</descripcion>
+    <imagen>https://picsum.photos/id/786/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>49</id>
+    <nombre>Cámara DSLR Mod. 149</nombre>
+    <precio>16104</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Cámara fotográfica profesional de 24MP</descripcion>
+    <imagen>https://picsum.photos/id/250/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>50</id>
+    <nombre>Espejo de Maquillaje Mod. 150</nombre>
+    <precio>1417</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Espejo con luz LED y aumento de 5x</descripcion>
+    <imagen>https://picsum.photos/id/649/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>51</id>
+    <nombre>Tapete de Yoga Mod. 151</nombre>
+    <precio>1823</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Tapete antideslizante de alta densidad</descripcion>
+    <imagen>https://picsum.photos/id/504/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>52</id>
+    <nombre>Tenis Casuales Mod. 152</nombre>
+    <precio>1639</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Tenis cómodos para uso diario de lona</descripcion>
+    <imagen>https://picsum.photos/id/681/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>53</id>
+    <nombre>Audífonos Bluetooth Mod. 153</nombre>
+    <precio>11297</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Audífonos inalámbricos con cancelación de ruido</descripcion>
+    <imagen>https://picsum.photos/id/10/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>54</id>
+    <nombre>Juego de Sarténes Mod. 154</nombre>
+    <precio>2413</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Set de 3 sartenes antiadherentes</descripcion>
+    <imagen>https://picsum.photos/id/30/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>55</id>
+    <nombre>Bicicleta de Montaña Mod. 155</nombre>
+    <precio>6995</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Bicicleta rodada 29 con 21 velocidades</descripcion>
+    <imagen>https://picsum.photos/id/146/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>56</id>
+    <nombre>Cartera de Piel Mod. 156</nombre>
+    <precio>1074</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Cartera clásica con compartimentos para tarjetas</descripcion>
+    <imagen>https://picsum.photos/id/452/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>57</id>
+    <nombre>Smartwatch Mod. 157</nombre>
+    <precio>2850</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Reloj inteligente con monitor de ritmo cardíaco</descripcion>
+    <imagen>https://picsum.photos/id/2/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>58</id>
+    <nombre>Termo de Acero Mod. 158</nombre>
+    <precio>3498</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Termo de 1 litro que mantiene frío y calor</descripcion>
+    <imagen>https://picsum.photos/id/429/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>59</id>
+    <nombre>Botella de Agua Deportiva Mod. 159</nombre>
+    <precio>527</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Botella con sistema de apertura rápida 750ml</descripcion>
+    <imagen>https://picsum.photos/id/514/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>60</id>
+    <nombre>Playera de Algodón Mod. 160</nombre>
+    <precio>1553</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Playera básica cuello redondo color blanco</descripcion>
+    <imagen>https://picsum.photos/id/686/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>61</id>
+    <nombre>Laptop Gamer Mod. 161</nombre>
+    <precio>2155</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Laptop para videojuegos de última generación</descripcion>
+    <imagen>https://picsum.photos/id/180/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>62</id>
+    <nombre>Licuadora de Alta Potencia Mod. 162</nombre>
+    <precio>2618</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Licuadora con vaso de vidrio y 3 velocidades</descripcion>
+    <imagen>https://picsum.photos/id/425/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>63</id>
+    <nombre>Balón de Fútbol Mod. 163</nombre>
+    <precio>1662</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Balón oficial de tamaño 5 de alta resistencia</descripcion>
+    <imagen>https://picsum.photos/id/1077/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>64</id>
+    <nombre>Reloj de Pulsera Elegante Mod. 164</nombre>
+    <precio>288</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Reloj analógico con extensible de cuero</descripcion>
+    <imagen>https://picsum.photos/id/357/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>65</id>
+    <nombre>Teclado Mecánico Mod. 165</nombre>
+    <precio>4753</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Teclado retroiluminado RGB con switches red</descripcion>
+    <imagen>https://picsum.photos/id/366/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>66</id>
+    <nombre>Aspiradora Robot Mod. 166</nombre>
+    <precio>2322</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Aspiradora inteligente con mapeo de habitaciones</descripcion>
+    <imagen>https://picsum.photos/id/142/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>67</id>
+    <nombre>Gorra Deportiva Mod. 167</nombre>
+    <precio>3799</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Gorra transpirable ideal para running</descripcion>
+    <imagen>https://picsum.photos/id/651/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>68</id>
+    <nombre>Vestido de Verano Mod. 168</nombre>
+    <precio>638</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Vestido corto y fresco con estampado floral</descripcion>
+    <imagen>https://picsum.photos/id/786/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>69</id>
+    <nombre>Cámara DSLR Mod. 169</nombre>
+    <precio>2714</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Cámara fotográfica profesional de 24MP</descripcion>
+    <imagen>https://picsum.photos/id/250/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>70</id>
+    <nombre>Espejo de Maquillaje Mod. 170</nombre>
+    <precio>2542</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Espejo con luz LED y aumento de 5x</descripcion>
+    <imagen>https://picsum.photos/id/649/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>71</id>
+    <nombre>Tapete de Yoga Mod. 171</nombre>
+    <precio>1350</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Tapete antideslizante de alta densidad</descripcion>
+    <imagen>https://picsum.photos/id/504/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>72</id>
+    <nombre>Tenis Casuales Mod. 172</nombre>
+    <precio>283</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Tenis cómodos para uso diario de lona</descripcion>
+    <imagen>https://picsum.photos/id/681/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>73</id>
+    <nombre>Audífonos Bluetooth Mod. 173</nombre>
+    <precio>9242</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Audífonos inalámbricos con cancelación de ruido</descripcion>
+    <imagen>https://picsum.photos/id/10/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>74</id>
+    <nombre>Juego de Sarténes Mod. 174</nombre>
+    <precio>2073</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Set de 3 sartenes antiadherentes</descripcion>
+    <imagen>https://picsum.photos/id/30/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>75</id>
+    <nombre>Bicicleta de Montaña Mod. 175</nombre>
+    <precio>2158</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Bicicleta rodada 29 con 21 velocidades</descripcion>
+    <imagen>https://picsum.photos/id/146/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>76</id>
+    <nombre>Cartera de Piel Mod. 176</nombre>
+    <precio>787</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Cartera clásica con compartimentos para tarjetas</descripcion>
+    <imagen>https://picsum.photos/id/452/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>77</id>
+    <nombre>Smartwatch Mod. 177</nombre>
+    <precio>16290</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Reloj inteligente con monitor de ritmo cardíaco</descripcion>
+    <imagen>https://picsum.photos/id/2/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>78</id>
+    <nombre>Termo de Acero Mod. 178</nombre>
+    <precio>2179</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Termo de 1 litro que mantiene frío y calor</descripcion>
+    <imagen>https://picsum.photos/id/429/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>79</id>
+    <nombre>Botella de Agua Deportiva Mod. 179</nombre>
+    <precio>5022</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Botella con sistema de apertura rápida 750ml</descripcion>
+    <imagen>https://picsum.photos/id/514/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>80</id>
+    <nombre>Playera de Algodón Mod. 180</nombre>
+    <precio>189</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Playera básica cuello redondo color blanco</descripcion>
+    <imagen>https://picsum.photos/id/686/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>81</id>
+    <nombre>Laptop Gamer Mod. 181</nombre>
+    <precio>1814</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Laptop para videojuegos de última generación</descripcion>
+    <imagen>https://picsum.photos/id/180/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>82</id>
+    <nombre>Licuadora de Alta Potencia Mod. 182</nombre>
+    <precio>1952</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Licuadora con vaso de vidrio y 3 velocidades</descripcion>
+    <imagen>https://picsum.photos/id/425/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>83</id>
+    <nombre>Balón de Fútbol Mod. 183</nombre>
+    <precio>6988</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Balón oficial de tamaño 5 de alta resistencia</descripcion>
+    <imagen>https://picsum.photos/id/1077/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>84</id>
+    <nombre>Reloj de Pulsera Elegante Mod. 184</nombre>
+    <precio>1202</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Reloj analógico con extensible de cuero</descripcion>
+    <imagen>https://picsum.photos/id/357/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>85</id>
+    <nombre>Teclado Mecánico Mod. 185</nombre>
+    <precio>23211</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Teclado retroiluminado RGB con switches red</descripcion>
+    <imagen>https://picsum.photos/id/366/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>86</id>
+    <nombre>Aspiradora Robot Mod. 186</nombre>
+    <precio>3197</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Aspiradora inteligente con mapeo de habitaciones</descripcion>
+    <imagen>https://picsum.photos/id/142/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>87</id>
+    <nombre>Gorra Deportiva Mod. 187</nombre>
+    <precio>3884</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Gorra transpirable ideal para running</descripcion>
+    <imagen>https://picsum.photos/id/651/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>88</id>
+    <nombre>Vestido de Verano Mod. 188</nombre>
+    <precio>1705</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Vestido corto y fresco con estampado floral</descripcion>
+    <imagen>https://picsum.photos/id/786/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>89</id>
+    <nombre>Cámara DSLR Mod. 189</nombre>
+    <precio>1722</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Cámara fotográfica profesional de 24MP</descripcion>
+    <imagen>https://picsum.photos/id/250/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>90</id>
+    <nombre>Espejo de Maquillaje Mod. 190</nombre>
+    <precio>4216</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Espejo con luz LED y aumento de 5x</descripcion>
+    <imagen>https://picsum.photos/id/649/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>91</id>
+    <nombre>Tapete de Yoga Mod. 191</nombre>
+    <precio>4993</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Tapete antideslizante de alta densidad</descripcion>
+    <imagen>https://picsum.photos/id/504/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>92</id>
+    <nombre>Tenis Casuales Mod. 192</nombre>
+    <precio>355</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Tenis cómodos para uso diario de lona</descripcion>
+    <imagen>https://picsum.photos/id/681/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>93</id>
+    <nombre>Audífonos Bluetooth Mod. 193</nombre>
+    <precio>21764</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Audífonos inalámbricos con cancelación de ruido</descripcion>
+    <imagen>https://picsum.photos/id/10/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>94</id>
+    <nombre>Juego de Sarténes Mod. 194</nombre>
+    <precio>2150</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Set de 3 sartenes antiadherentes</descripcion>
+    <imagen>https://picsum.photos/id/30/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>95</id>
+    <nombre>Bicicleta de Montaña Mod. 195</nombre>
+    <precio>2300</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Bicicleta rodada 29 con 21 velocidades</descripcion>
+    <imagen>https://picsum.photos/id/146/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>96</id>
+    <nombre>Cartera de Piel Mod. 196</nombre>
+    <precio>271</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Cartera clásica con compartimentos para tarjetas</descripcion>
+    <imagen>https://picsum.photos/id/452/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>TechSupply MX</nombre>
+      <telefono>2281234567</telefono>
+      <email>ventas@techsupply.mx</email>
+      <ciudad>Xalapa</ciudad>
+      <ventas>245</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>97</id>
+    <nombre>Smartwatch Mod. 197</nombre>
+    <precio>9812</precio>
+    <categoria>Electrónica</categoria>
+    <descripcion>Reloj inteligente con monitor de ritmo cardíaco</descripcion>
+    <imagen>https://picsum.photos/id/2/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>ElectroMundo</nombre>
+      <telefono>2299876543</telefono>
+      <email>contacto@electromundo.com</email>
+      <ciudad>Veracruz</ciudad>
+      <ventas>180</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>98</id>
+    <nombre>Termo de Acero Mod. 198</nombre>
+    <precio>593</precio>
+    <categoria>Hogar</categoria>
+    <descripcion>Termo de 1 litro que mantiene frío y calor</descripcion>
+    <imagen>https://picsum.photos/id/429/600/400</imagen>
+    <oferta>true</oferta>
+    <vendedor>
+      <nombre>Hogar y Estilo</nombre>
+      <telefono>5551239876</telefono>
+      <email>info@hogaryestilo.mx</email>
+      <ciudad>CDMX</ciudad>
+      <ventas>320</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>99</id>
+    <nombre>Botella de Agua Deportiva Mod. 199</nombre>
+    <precio>982</precio>
+    <categoria>Deportes</categoria>
+    <descripcion>Botella con sistema de apertura rápida 750ml</descripcion>
+    <imagen>https://picsum.photos/id/514/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Deportes VIP</nombre>
+      <telefono>3334445555</telefono>
+      <email>soporte@deportesvip.com</email>
+      <ciudad>Guadalajara</ciudad>
+      <ventas>95</ventas>
+    </vendedor>
+  </producto>
+  <producto>
+    <id>100</id>
+    <nombre>Playera de Algodón Mod. 200</nombre>
+    <precio>985</precio>
+    <categoria>Moda</categoria>
+    <descripcion>Playera básica cuello redondo color blanco</descripcion>
+    <imagen>https://picsum.photos/id/686/600/400</imagen>
+    <oferta>false</oferta>
+    <vendedor>
+      <nombre>Moda Urbana</nombre>
+      <telefono>8187654321</telefono>
+      <email>ventas@modaurbana.mx</email>
+      <ciudad>Monterrey</ciudad>
+      <ventas>410</ventas>
+    </vendedor>
+  </producto>
+</productos>

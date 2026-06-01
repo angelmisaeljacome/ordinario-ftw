@@ -1,17 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Catalogo de productos</title>
     <link rel="stylesheet" href="productos.css">
 </head>
-<body>
-    <div id="Header">
-    <h1>Jacom's Comerce</h1>
-    <h2>Catalogo de productos</h2>
-</div>
-    
-<script src="productos.js"></script>
+
+<body onload="cargarProductos()">
+    <div id="header">
+    <button id="icono" onclick="inicio()">
+        <img src="home.svg" alt="">
+    </button>
+    <div id="infoHeader">
+        <h1>Jacom's Comerce</h1>
+        <h2>Catalogo de productos</h2>
+    </div>
+    </div>
+    <main id="cards">
+    </main>
+
+    <script src="productos.js"></script>
 </body>
+
 </html>
