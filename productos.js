@@ -15,6 +15,7 @@ function cargarProductos() {
 
             //realiza el recorrido
             for (var i = 0; i < productos.length; i++) {
+                var id  = productos[i].getElementsByTagName("id")[0].textContent;
                 var nombre = productos[i].getElementsByTagName("nombre")[0].textContent;
                 var precio = productos[i].getElementsByTagName("precio")[0].textContent;
                 var imagen = productos[i].getElementsByTagName("imagen")[0].textContent;
@@ -34,7 +35,7 @@ function cargarProductos() {
                             <p class="dato">$ ${precio} MXN</p>
                         </div>
 
-                        <div class="boton" onclick="cargarDetalles()"> 
+                        <div class="boton" onclick="cargarDetalles(${id})"> 
                             <button>Detalles</button>
                         </div>
                     </div>
@@ -50,8 +51,8 @@ function cargarProductos() {
 
 
 
-function cargarDetalles() {
-    window.location.href = "detallesProducto.html";
+function cargarDetalles(idProducto) {
+    window.location.href = "detallesProducto.html?id=" + idProducto;
 }
 
 function inicio(){

@@ -1,0 +1,86 @@
+#header{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+#infoHeader{
+    width: 1300px;
+    text-align: center;
+    background-color: #E0FFFF;
+    padding: 10px;
+}
+
+#icono{
+    background-color: azure;
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+}
+
+#icono img{
+    width: 80px;          /* Ajusta el ancho del ícono */
+    height: 80px;         /* Ajusta el alto del ícono */
+    box-shadow: none;
+}
+
+body {
+    display: flex;
+    flex-direction: column; /* Los elementos se apilan hacia abajo */
+    min-height: 100vh;      /* El cuerpo usa el 100% de la altura de la pantalla */
+    margin: 0;
+}
+
+main {
+    display: flex;          /* para que funcione el gap! */
+    flex-direction: column; /* Alinea las cards de arriba a abajo */
+    align-items: center;    /* Reemplaza 'align-self' para centrar las cards horizontalmente */
+    gap: 20px;  
+}
+
+.info{
+    width: 800px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    box-shadow: 10px 10px 20px rgb(20, 20, 20);
+    background-color: aliceblue;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.etiqueta{
+    background-color: blanchedalmond;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    margin: 0; 
+    margin-top: 10px;
+}
+
+.dato{
+    width: 80%;
+    text-align: center;
+    font-size: 25px;
+    color: #002aff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0; 
+    margin-bottom: 15px;
+
+    overflow-wrap: break-word; /*evitan se desborde a los lados*/
+    word-wrap: break-word;
+}
+
+img{
+    box-shadow: 10px 10px 20px rgb(20, 20, 20);
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+}
+
+figure {
+    text-align: left;
+    width: 300px;
+    display: inline-block;
+}

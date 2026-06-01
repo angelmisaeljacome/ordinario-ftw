@@ -20,6 +20,7 @@
 #icono img{
     width: 80px;          /* Ajusta el ancho del ícono */
     height: 80px;         /* Ajusta el alto del ícono */
+    box-shadow: none;
 }
 
 body {
