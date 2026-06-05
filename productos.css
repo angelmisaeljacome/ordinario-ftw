@@ -92,6 +92,41 @@ Button{
     width: 190px;
 }
 
-h1{
-    font-family:;
+
+
+/* para celular */
+@media (max-width: 600px) {
+    #infoHeader, .card {
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+    }
+
+    /* la info de los cards en columnas */
+    .card {
+        flex-direction: column;
+        height: auto; /* altura = auto */
+        gap: 20px;
+        align-items: center;
+    }
+
+    /* ajuste de los textos a tamano pequeno*/
+    .etiqueta {
+        font-size: 28px;
+        text-align: center;
+    }
+    .dato {
+        font-size: 20px;
+        text-align: center;
+    }
+    .divNombre, .divPrecio {
+        width: 100%;
+        text-align: center;
+    }
+    
+    /* Las posiciones fijas del original para que el celular liste todo hacia abajo */
+    #header, .menu, .content, .facts, .footer {
+        grid-area: initial; /* Resetea el comportamiento de rejilla superior */
+        width: 100%;
+    }
 }
