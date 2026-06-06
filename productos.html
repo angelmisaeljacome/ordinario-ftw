@@ -8,16 +8,22 @@
     <link rel="stylesheet" href="productos.css">
 </head>
 
-<body onload="cargarProductos()">
+<body onload="cargarProductos(), cargarCategorias()">
     <div id="header">
-    <button id="icono" onclick="inicio()">
-        <img src="home.svg" alt="">
-    </button>
-    <div id="infoHeader">
-        <h1>Jacom's Comerce</h1>
-        <h2>Catalogo de productos</h2>
+        <button id="icono" onclick="inicio()">
+            <img src="home.svg" alt="">
+        </button>
+        <div id="infoHeader">
+            <h1>Jacom's Comerce</h1>
+            <h2>Catalogo de productos</h2>
+        </div>
+
     </div>
-    </div>
+
+    <label for="opciones" id="selec">Selecciona alguna categoria para buscar tus productos:</label>
+    <select id="opciones" name="opciones" onchange="buscar(this.value)">
+    </select>
+
     <main id="cards">
     </main>
 

@@ -1,0 +1,115 @@
+#header {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+#infoHeader {
+    width: 1300px;
+    text-align: center;
+    background-color: #FFF5EE;
+}
+
+#icono {
+    background-color: azure;
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+}
+
+#icono img {
+    width: 80px;
+    /* Ajusta el ancho del ícono */
+    height: 80px;
+    /* Ajusta el alto del ícono */
+    box-shadow: none;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    /* Los elementos se apilan hacia abajo */
+    min-height: 100vh;
+    /* El cuerpo usa el 100% de la altura de la pantalla */
+    margin: 0;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    /* Los elementos se apilan hacia abajo */
+    min-height: 100vh;
+    /* El cuerpo usa el 100% de la altura de la pantalla */
+    margin: 0;
+
+}
+
+table {
+    align-self: auto;
+    width: 90%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-collapse: collapse;
+
+}
+
+th {
+    padding: 10px;
+    font-size: 25px;
+    background-color: #D3D3D3;
+    color: blue;
+    border: 3px solid black;
+}
+
+td {
+    padding: 15px;
+    font-size: 20px;
+    border: 1px solid black;
+}
+
+button {
+    font-size: 20px;
+    color: #2E8B57;
+}
+
+tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* para celular */
+@media (max-width: 600px) {
+
+    #infoHeader,
+    .card {
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+    }
+
+    /* ajuste de los textos a tamano pequeno*/
+    th {
+        padding: 5px;
+        font-size: 15px;
+        background-color: #D3D3D3;
+        color: blue;
+        border: 1px solid black;
+    }
+
+    td {
+        padding: 7px;
+        font-size: 10px;
+        border: 1px solid black;
+    }
+
+    button {
+        font-size: 7px;
+        color: #2E8B57;
+    }
+
+    /* Las posiciones fijas del original para que el celular liste todo hacia abajo */
+    #header {
+        grid-area: initial;
+        /* Resetea el comportamiento de rejilla superior */
+        width: 100%;
+    }
+}

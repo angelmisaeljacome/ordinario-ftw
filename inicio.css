@@ -5,6 +5,10 @@
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
+#opciones{
+    height: 80px;
+}
+
 #cardProductos{
     background: #F0FFFF;
 }
@@ -13,12 +17,12 @@
     background: #F5F5DC;
 }
 
-#cardProveedores{
-    background: #FFFAF0;
+#cardVendedores{
+    background: #FFE4B5;
 }
 
 #cardContacto{
-    background: #FFF0F5;
+    background: #D8BFD8;
 }
 
 #Header{
@@ -28,5 +32,5 @@
 }
 
 p{
-    color: #5F9EA0;
+    color: #2F4F4F;
 }

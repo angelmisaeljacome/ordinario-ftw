@@ -7,7 +7,7 @@
 #infoHeader{
     width: 1300px;
     text-align: center;
-    background-color: #E0FFFF;
+    background-color: #F0FFFF;
 }
 
 #icono{
@@ -29,6 +29,19 @@ body {
     min-height: 100vh;      /* El cuerpo usa el 100% de la altura de la pantalla */
     margin: 0;
 }
+
+#selec{
+    background-color: #FFF8DC;
+    font-size: 20px;
+}
+
+#opciones{
+    background-color: #F0E68C;
+    font-size: 18px;
+    color: #00008B;
+}
+
+
 
 main {
     display: flex;          /* para que funcione el gap! */
@@ -125,7 +138,7 @@ Button{
     }
     
     /* Las posiciones fijas del original para que el celular liste todo hacia abajo */
-    #header, .menu, .content, .facts, .footer {
+    #header{
         grid-area: initial; /* Resetea el comportamiento de rejilla superior */
         width: 100%;
     }

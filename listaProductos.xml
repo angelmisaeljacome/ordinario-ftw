@@ -24,6 +24,7 @@
     <descripcion>Licuadora con vaso de vidrio y 3 velocidades</descripcion>
     <imagen>https://picsum.photos/id/425/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>3000</precioAnterior>
     <vendedor>
       <nombre>ElectroMundo</nombre>
       <telefono>2299876543</telefono>
@@ -40,6 +41,7 @@
     <descripcion>Balón oficial de tamaño 5 de alta resistencia</descripcion>
     <imagen>https://picsum.photos/id/1077/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>2000</precioAnterior>
     <vendedor>
       <nombre>Hogar y Estilo</nombre>
       <telefono>5551239876</telefono>
@@ -104,6 +106,7 @@
     <descripcion>Gorra transpirable ideal para running</descripcion>
     <imagen>https://picsum.photos/id/651/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>3150</precioAnterior>
     <vendedor>
       <nombre>ElectroMundo</nombre>
       <telefono>2299876543</telefono>
@@ -120,6 +123,7 @@
     <descripcion>Vestido corto y fresco con estampado floral</descripcion>
     <imagen>https://picsum.photos/id/786/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>999</precioAnterior>
     <vendedor>
       <nombre>Hogar y Estilo</nombre>
       <telefono>5551239876</telefono>
@@ -136,6 +140,7 @@
     <descripcion>Cámara fotográfica profesional de 24MP</descripcion>
     <imagen>https://picsum.photos/id/250/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>18999</precioAnterior>
     <vendedor>
       <nombre>Deportes VIP</nombre>
       <telefono>3334445555</telefono>
@@ -168,6 +173,7 @@
     <descripcion>Tapete antideslizante de alta densidad</descripcion>
     <imagen>https://picsum.photos/id/504/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>3144</precioAnterior>
     <vendedor>
       <nombre>TechSupply MX</nombre>
       <telefono>2281234567</telefono>
@@ -184,6 +190,7 @@
     <descripcion>Tenis cómodos para uso diario de lona</descripcion>
     <imagen>https://picsum.photos/id/681/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>675</precioAnterior>
     <vendedor>
       <nombre>ElectroMundo</nombre>
       <telefono>2299876543</telefono>
@@ -248,6 +255,7 @@
     <descripcion>Cartera clásica con compartimentos para tarjetas</descripcion>
     <imagen>https://picsum.photos/id/452/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>599</precioAnterior>
     <vendedor>
       <nombre>TechSupply MX</nombre>
       <telefono>2281234567</telefono>
@@ -328,6 +336,7 @@
     <descripcion>Laptop para videojuegos de última generación</descripcion>
     <imagen>https://picsum.photos/id/180/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>12000</precioAnterior>
     <vendedor>
       <nombre>TechSupply MX</nombre>
       <telefono>2281234567</telefono>
@@ -360,6 +369,7 @@
     <descripcion>Balón oficial de tamaño 5 de alta resistencia</descripcion>
     <imagen>https://picsum.photos/id/1077/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>2399</precioAnterior>
     <vendedor>
       <nombre>Hogar y Estilo</nombre>
       <telefono>5551239876</telefono>
@@ -376,6 +386,7 @@
     <descripcion>Reloj analógico con extensible de cuero</descripcion>
     <imagen>https://picsum.photos/id/357/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>758</precioAnterior>
     <vendedor>
       <nombre>Deportes VIP</nombre>
       <telefono>3334445555</telefono>
@@ -392,6 +403,7 @@
     <descripcion>Teclado retroiluminado RGB con switches red</descripcion>
     <imagen>https://picsum.photos/id/366/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>9000</precioAnterior>
     <vendedor>
       <nombre>Moda Urbana</nombre>
       <telefono>8187654321</telefono>
@@ -408,6 +420,7 @@
     <descripcion>Aspiradora inteligente con mapeo de habitaciones</descripcion>
     <imagen>https://picsum.photos/id/142/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>2500</precioAnterior>
     <vendedor>
       <nombre>TechSupply MX</nombre>
       <telefono>2281234567</telefono>
@@ -424,6 +437,7 @@
     <descripcion>Gorra transpirable ideal para running</descripcion>
     <imagen>https://picsum.photos/id/651/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>6999</precioAnterior>
     <vendedor>
       <nombre>ElectroMundo</nombre>
       <telefono>2299876543</telefono>
@@ -456,6 +470,7 @@
     <descripcion>Cámara fotográfica profesional de 24MP</descripcion>
     <imagen>https://picsum.photos/id/250/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>1888</precioAnterior>
     <vendedor>
       <nombre>Deportes VIP</nombre>
       <telefono>3334445555</telefono>
@@ -472,6 +487,7 @@
     <descripcion>Espejo con luz LED y aumento de 5x</descripcion>
     <imagen>https://picsum.photos/id/649/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>2800</precioAnterior>
     <vendedor>
       <nombre>Moda Urbana</nombre>
       <telefono>8187654321</telefono>
@@ -488,6 +504,7 @@
     <descripcion>Tapete antideslizante de alta densidad</descripcion>
     <imagen>https://picsum.photos/id/504/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>4999</precioAnterior>
     <vendedor>
       <nombre>TechSupply MX</nombre>
       <telefono>2281234567</telefono>
@@ -536,6 +553,7 @@
     <descripcion>Set de 3 sartenes antiadherentes</descripcion>
     <imagen>https://picsum.photos/id/30/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>4500</precioAnterior>
     <vendedor>
       <nombre>Deportes VIP</nombre>
       <telefono>3334445555</telefono>
@@ -552,6 +570,7 @@
     <descripcion>Bicicleta rodada 29 con 21 velocidades</descripcion>
     <imagen>https://picsum.photos/id/146/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>5200</precioAnterior>
     <vendedor>
       <nombre>Moda Urbana</nombre>
       <telefono>8187654321</telefono>
@@ -568,6 +587,7 @@
     <descripcion>Cartera clásica con compartimentos para tarjetas</descripcion>
     <imagen>https://picsum.photos/id/452/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>1444</precioAnterior>
     <vendedor>
       <nombre>TechSupply MX</nombre>
       <telefono>2281234567</telefono>
@@ -632,6 +652,7 @@
     <descripcion>Playera básica cuello redondo color blanco</descripcion>
     <imagen>https://picsum.photos/id/686/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>1687</precioAnterior>
     <vendedor>
       <nombre>Moda Urbana</nombre>
       <telefono>8187654321</telefono>
@@ -728,6 +749,7 @@
     <descripcion>Aspiradora inteligente con mapeo de habitaciones</descripcion>
     <imagen>https://picsum.photos/id/142/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>4522</precioAnterior>
     <vendedor>
       <nombre>TechSupply MX</nombre>
       <telefono>2281234567</telefono>
@@ -744,6 +766,7 @@
     <descripcion>Gorra transpirable ideal para running</descripcion>
     <imagen>https://picsum.photos/id/651/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>788</precioAnterior>
     <vendedor>
       <nombre>ElectroMundo</nombre>
       <telefono>2299876543</telefono>
@@ -776,6 +799,7 @@
     <descripcion>Cámara fotográfica profesional de 24MP</descripcion>
     <imagen>https://picsum.photos/id/250/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>17000</precioAnterior>
     <vendedor>
       <nombre>Deportes VIP</nombre>
       <telefono>3334445555</telefono>
@@ -840,6 +864,7 @@
     <descripcion>Audífonos inalámbricos con cancelación de ruido</descripcion>
     <imagen>https://picsum.photos/id/10/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>11888</precioAnterior>
     <vendedor>
       <nombre>Hogar y Estilo</nombre>
       <telefono>5551239876</telefono>
@@ -872,6 +897,7 @@
     <descripcion>Bicicleta rodada 29 con 21 velocidades</descripcion>
     <imagen>https://picsum.photos/id/146/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>7200</precioAnterior>
     <vendedor>
       <nombre>Moda Urbana</nombre>
       <telefono>8187654321</telefono>
@@ -936,6 +962,7 @@
     <descripcion>Botella con sistema de apertura rápida 750ml</descripcion>
     <imagen>https://picsum.photos/id/514/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>841</precioAnterior>
     <vendedor>
       <nombre>Deportes VIP</nombre>
       <telefono>3334445555</telefono>
@@ -1016,6 +1043,7 @@
     <descripcion>Reloj analógico con extensible de cuero</descripcion>
     <imagen>https://picsum.photos/id/357/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>359</precioAnterior>
     <vendedor>
       <nombre>Deportes VIP</nombre>
       <telefono>3334445555</telefono>
@@ -1048,6 +1076,7 @@
     <descripcion>Aspiradora inteligente con mapeo de habitaciones</descripcion>
     <imagen>https://picsum.photos/id/142/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>2859</precioAnterior>
     <vendedor>
       <nombre>TechSupply MX</nombre>
       <telefono>2281234567</telefono>
@@ -1064,6 +1093,7 @@
     <descripcion>Gorra transpirable ideal para running</descripcion>
     <imagen>https://picsum.photos/id/651/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>3999</precioAnterior>
     <vendedor>
       <nombre>ElectroMundo</nombre>
       <telefono>2299876543</telefono>
@@ -1144,6 +1174,7 @@
     <descripcion>Tenis cómodos para uso diario de lona</descripcion>
     <imagen>https://picsum.photos/id/681/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>499</precioAnterior>
     <vendedor>
       <nombre>ElectroMundo</nombre>
       <telefono>2299876543</telefono>
@@ -1160,6 +1191,7 @@
     <descripcion>Audífonos inalámbricos con cancelación de ruido</descripcion>
     <imagen>https://picsum.photos/id/10/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>9999</precioAnterior>
     <vendedor>
       <nombre>Hogar y Estilo</nombre>
       <telefono>5551239876</telefono>
@@ -1208,6 +1240,7 @@
     <descripcion>Cartera clásica con compartimentos para tarjetas</descripcion>
     <imagen>https://picsum.photos/id/452/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>1289</precioAnterior>
     <vendedor>
       <nombre>TechSupply MX</nombre>
       <telefono>2281234567</telefono>
@@ -1224,6 +1257,7 @@
     <descripcion>Reloj inteligente con monitor de ritmo cardíaco</descripcion>
     <imagen>https://picsum.photos/id/2/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>17122</precioAnterior>
     <vendedor>
       <nombre>ElectroMundo</nombre>
       <telefono>2299876543</telefono>
@@ -1272,6 +1306,7 @@
     <descripcion>Playera básica cuello redondo color blanco</descripcion>
     <imagen>https://picsum.photos/id/686/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>229</precioAnterior>
     <vendedor>
       <nombre>Moda Urbana</nombre>
       <telefono>8187654321</telefono>
@@ -1320,6 +1355,7 @@
     <descripcion>Balón oficial de tamaño 5 de alta resistencia</descripcion>
     <imagen>https://picsum.photos/id/1077/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>7114</precioAnterior>
     <vendedor>
       <nombre>Hogar y Estilo</nombre>
       <telefono>5551239876</telefono>
@@ -1384,6 +1420,7 @@
     <descripcion>Gorra transpirable ideal para running</descripcion>
     <imagen>https://picsum.photos/id/651/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>4228</precioAnterior>
     <vendedor>
       <nombre>ElectroMundo</nombre>
       <telefono>2299876543</telefono>
@@ -1400,6 +1437,7 @@
     <descripcion>Vestido corto y fresco con estampado floral</descripcion>
     <imagen>https://picsum.photos/id/786/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>1869</precioAnterior>
     <vendedor>
       <nombre>Hogar y Estilo</nombre>
       <telefono>5551239876</telefono>
@@ -1432,6 +1470,7 @@
     <descripcion>Espejo con luz LED y aumento de 5x</descripcion>
     <imagen>https://picsum.photos/id/649/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>4469</precioAnterior>
     <vendedor>
       <nombre>Moda Urbana</nombre>
       <telefono>8187654321</telefono>
@@ -1448,6 +1487,7 @@
     <descripcion>Tapete antideslizante de alta densidad</descripcion>
     <imagen>https://picsum.photos/id/504/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>5548</precioAnterior>
     <vendedor>
       <nombre>TechSupply MX</nombre>
       <telefono>2281234567</telefono>
@@ -1464,6 +1504,7 @@
     <descripcion>Tenis cómodos para uso diario de lona</descripcion>
     <imagen>https://picsum.photos/id/681/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>398</precioAnterior>
     <vendedor>
       <nombre>ElectroMundo</nombre>
       <telefono>2299876543</telefono>
@@ -1560,6 +1601,7 @@
     <descripcion>Termo de 1 litro que mantiene frío y calor</descripcion>
     <imagen>https://picsum.photos/id/429/600/400</imagen>
     <oferta>true</oferta>
+    <precioAnterior>599</precioAnterior>
     <vendedor>
       <nombre>Hogar y Estilo</nombre>
       <telefono>5551239876</telefono>

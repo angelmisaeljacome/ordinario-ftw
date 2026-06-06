@@ -1,18 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>vendedores</title>
     <link rel="stylesheet" href="vendedores.css">
 </head>
-<body>
-    <div id="Header">
-    <h1>Jacom's Comerce</h1>
-    <h2>Vendedores</h2>
-</div>
 
+<body onload="cargarVendedores()">
+    <div id="header">
+        <button id="icono" onclick="inicio()">
+            <img src="home.svg" alt="">
+        </button>
+        <div id="infoHeader">
+            <h1>Jacom's Comerce</h1>
+            <h2>Vendedores</h2>
+        </div>
+    </div>
+    <main>
+        <table>
+            <thead >
+                <tr>
+                    <th>Nombre</th>
+                    <th>Ventas realizadas</th>
+                    <th>Contacto</th>
+                </tr>
+            </thead>
+            <tbody id="infoTabla">
+                
+            </tbody>
+        </table>
+    </main>
 
-<script src="vendedores.js"></script>    
+    <footer id="footer">
+        <p>gla</p>
+    </footer>
+
+    <script src="vendedores.js"></script>
 </body>
+
 </html>

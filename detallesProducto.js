@@ -64,7 +64,7 @@ function cargarDetalles(idProducto) {
                     </div>
                 `;console.log("detecto")
                     break;
-                }console.log("funciona")
+                }console.log("funciono")
             }
 
             document.getElementById("unico").innerHTML = salida;
