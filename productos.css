@@ -118,6 +118,7 @@ Button{
     /* la info de los cards en columnas */
     .card {
         flex-direction: column;
+        width: 90%;
         height: auto; /* altura = auto */
         gap: 20px;
         align-items: center;

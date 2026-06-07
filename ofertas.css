@@ -1,0 +1,149 @@
+#header{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+#infoHeader{
+    width: 1300px;
+    text-align: center;
+    background-color: #F5F5DC;
+}
+
+#icono{
+    background-color: azure;
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+}
+
+#icono img{
+    width: 80px;          /* Ajusta el ancho del ícono */
+    height: 80px;         /* Ajusta el alto del ícono */
+    box-shadow: none;
+}
+
+body {
+    display: flex;
+    flex-direction: column; /* Los elementos se apilan hacia abajo */
+    min-height: 100vh;      /* El cuerpo usa el 100% de la altura de la pantalla */
+    margin: 0;
+}
+
+
+main {
+    display: flex;          /* para que funcione el gap! */
+    flex-direction: row; /* Alinea las cards de izquierda a derecha */
+    flex-wrap: wrap;    /*Permite salto de linea cuando las cards no quepan en pantalla*/
+    justify-content: center;    /*Centra las cards*/
+    gap: 30px;              /* Separación  entre cada card  */
+      
+    
+}
+.card{
+    width: 400px;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    box-shadow: 10px 10px 20px rgb(20, 20, 20);
+    background-color: aliceblue;
+    border-radius: 10px;
+    align-items: center; 
+    
+}
+
+img{
+    box-shadow: 10px 10px 20px rgb(20, 20, 20);
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+}
+
+figure {
+    text-align: center;
+    width: 200px;
+    display:inline-block;
+}
+
+.etiqueta{
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    margin-top: 10px;
+}
+
+.dato{
+    font-size: 30px;
+    text-align: center;
+    color: #00008B;
+
+    /*evitan se desborde a los lados*/
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+#precioAnterior{
+    color: red;
+    font-style: italic;
+    text-decoration: line-through;
+}
+
+.boton{
+    align-self: center;
+}
+
+Button{
+    background-color: #8FBC8F;
+    font-size: 25px;
+    width: 140px;
+    height: 60px;
+    border-radius: 15px;
+}
+
+.divPrecioActual, .divNombre, .divPrecioAnterior{
+    width: 300px;
+    text-align: center;
+}
+
+
+
+/* para celular */
+@media (max-width: 600px) {
+    #infoHeader, .card {
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+    }
+
+    /* la info de los cards en columnas */
+    .card {
+        flex-direction: column;
+        width: 90%;
+        height: auto; /* altura = auto */
+        gap: 20px;
+        align-items: center;
+    }
+
+    /* ajuste de los textos a tamano pequeno*/
+    .etiqueta {
+        font-size: 28px;
+        text-align: center;
+    }
+    .dato, button{
+        font-size: 20px;
+        text-align: center;
+    }
+    .divPrecioActual, .divNombre, .divPrecioAnterior{
+        width: 100%;
+        text-align: center;
+    }
+    
+    /* Las posiciones fijas del original para que el celular liste todo hacia abajo */
+    #header{
+        grid-area: initial; /* Resetea el comportamiento de rejilla superior */
+        width: 100%;
+    }
+}

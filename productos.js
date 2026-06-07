@@ -145,7 +145,7 @@ function cargarCategorias() {
 
 
 function cargarDetalles(idProducto) {
-    window.location.href = "detallesProducto.html?id=" + idProducto;
+    window.location.href = "detallesProducto.html?id=" + idProducto + "&llamadaPor=" + "productos";
 }
 
 function inicio() {

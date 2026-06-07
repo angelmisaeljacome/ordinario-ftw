@@ -103,7 +103,7 @@ button{
         text-align: center;
     }
 
-    .dato {
+    button, .dato {
         font-size: 20px;
         text-align: center;
     }

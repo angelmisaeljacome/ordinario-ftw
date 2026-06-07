@@ -75,7 +75,27 @@ function cargarDetalles(idProducto) {
 }
 
 
-
+/*
+    Dado que a detalles acceden productos y ofertas se necesita saber quien lo llamo
+    Y posteriormente el boton regreso, retorne a la pagina anterior esperada.
+*/
 function regreso() {
-    window.location.href = "productos.html"
+    // Obtener los parámetros de la URL
+        const urlParams = new URLSearchParams(window.location.search);
+
+        // Extraer específicamente el parámetro llamado 'id'
+        const llamadaPor = urlParams.get('llamadaPor');
+
+        console.log("El usuario quiere regresar a:", llamadaPor);
+
+        // lógica para rellenar la página
+        if (llamadaPor === "ofertas") {
+            window.location.href = "ofertas.html"
+        } else if(llamadaPor === "productos"){
+            window.location.href = "productos.html"
+        } else{
+            window.location.href = "inicio.html"
+        }
+
+   
 }
