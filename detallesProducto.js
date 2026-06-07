@@ -45,7 +45,7 @@ function cargarDetalles(idProducto) {
 
 
                     salida += `
-                    <div class="info"">
+                    <div class="info">
                         <figure>
                             <img src="${imagen}" alt="">
                         </figure>
