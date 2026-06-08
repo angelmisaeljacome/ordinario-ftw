@@ -18,7 +18,7 @@ function cargarDetalles(nombreUsuario) {
 
     var xhr = new XMLHttpRequest(); //Variable de peticion o tuberia
 
-    xhr.open("GET", "/xml/listaProductos.xml", true); //solicita el documento
+    xhr.open("GET", "../xml/listaProductos.xml", true); //solicita el documento
 
     xhr.onreadystatechange = function () { //espera la respuesta
 
@@ -83,5 +83,5 @@ function cargarDetalles(nombreUsuario) {
 
 
 function regreso() {
-    window.location.href = "/html/vendedores.html"
+    window.location.href = "../html/vendedores.html"
 }
