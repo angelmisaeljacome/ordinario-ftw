@@ -2,7 +2,7 @@ function cargarVendedores() {
 
     var xhr = new XMLHttpRequest(); //Variable de peticion o tuberia
 
-    xhr.open("GET", "listaProductos.xml", true); //solicita el documento
+    xhr.open("GET", "/xml/listaProductos.xml", true); //solicita el documento
 
     xhr.onreadystatechange = function () { //espera la respuesta
 
@@ -57,5 +57,5 @@ function cargarDetalles(nombreVendedor) {
 }
 
 function inicio() {
-    window.location.href = "inicio.html";
+    window.location.href = "/html/inicio.html";
 }

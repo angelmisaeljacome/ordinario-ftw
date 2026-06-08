@@ -2,7 +2,7 @@ function cargarProductos() {
 
     var xhr = new XMLHttpRequest(); //Variable de peticion o tuberia
 
-    xhr.open("GET", "listaProductos.xml", true); //solicita el documento
+    xhr.open("GET", "/xml/listaProductos.xml", true); //solicita el documento
 
     xhr.onreadystatechange = function () { //espera la respuesta
 
@@ -53,7 +53,7 @@ function buscar(categoriaBuscada) {
 
     var xhr = new XMLHttpRequest(); //Variable de peticion o tuberia
 
-    xhr.open("GET", "listaProductos.xml", true); //solicita el documento
+    xhr.open("GET", "/xml/listaProductos.xml", true); //solicita el documento
 
     xhr.onreadystatechange = function () { //espera la respuesta
 
@@ -109,7 +109,7 @@ function cargarCategorias() {
 
     var xhr = new XMLHttpRequest(); //Variable de peticion o tuberia
 
-    xhr.open("GET", "listaProductos.xml", true); //solicita el documento
+    xhr.open("GET", "/xml/listaProductos.xml", true); //solicita el documento
 
     xhr.onreadystatechange = function () { //espera la respuesta
 
@@ -149,5 +149,5 @@ function cargarDetalles(idProducto) {
 }
 
 function inicio() {
-    window.location.href = "inicio.html";
+    window.location.href = "/html/inicio.html";
 }
