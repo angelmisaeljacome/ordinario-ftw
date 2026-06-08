@@ -1,0 +1,244 @@
+body{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#header {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+#infoHeader {
+    width: 1300px;
+    text-align: center;
+    background-color: #D8BFD8;
+}
+
+#icono {
+    background-color: azure;
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+}
+
+#icono img {
+    width: 80px;
+    /* Ajusta el ancho del ícono */
+    height: 80px;
+    /* Ajusta el alto del ícono */
+    box-shadow: none;
+}
+
+
+img {
+    box-shadow: 10px 10px 20px rgb(20, 20, 20);
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    /* Alinea las cards de arriba a abajo */
+    align-items: center;
+    /* Reemplaza 'align-self' para centrar las cards horizontalmente */
+    gap: 20px;
+}
+
+#proyecto {
+    display: flex;
+    flex-direction: column;
+    /* Alinea las cards arriba abajo */
+    align-items: left;
+    /* Reemplaza 'align-self' para centrar las cards horizontalmente */
+    gap: 20px;
+    background-color: #B0C4DE;
+    width: 100%;
+}
+
+#personal {
+    display: flex;
+    flex-direction: row;
+    /* Alinea las cards de izquiersa a derecha */
+    align-items: top;
+    /* Reemplaza 'align-self' para centrar las cards horizontalmente */
+    width: 100%;
+}
+
+#info {
+    background-color: #E6D5E6;
+    width: 70%;
+}
+
+.presenProy {
+    text-align: center;
+}
+
+.presentacion,
+.presenProy {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tecnologias {
+    display: flex;
+    flex-direction: column;
+    /* Alinea las cards de izquiersa a derecha */
+    align-items: center;
+    /* Reemplaza 'align-self' para centrar las cards horizontalmente */
+    background-color: #8FBC8F;
+    width: 30%;
+    gap: 10px;
+}
+
+.titleTecs {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+.titleTec {
+    background-color: #66CDAA;
+}
+
+.tipoTec {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+#bd,
+#progra,
+#front,
+#network {
+    width: 100%;
+    display: flex;
+    /* para que funcione el gap! */
+    flex-direction: column;
+    /* Alinea las cards de izquierda a derecha */
+    flex-wrap: wrap;
+    /*Permite salto de linea cuando las cards no quepan en pantalla*/
+    justify-content: center;
+    /*Centra las cards*/
+
+}
+
+#bd {
+    background-color: #D8EFD3;
+    /* verde muy claro */
+}
+
+#progra {
+    background-color: #C8E6C9;
+    /* verde pastel */
+}
+
+#front {
+    background-color: #B7DCC0;
+    /* verde salvia suave */
+}
+
+#network {
+    background-color: #E2F0D9;
+    /* verde menta muy claro */
+}
+
+.icons {
+    width: 100%;
+    display: flex;
+    /* para que funcione el gap! */
+    flex-direction: row;
+    /* Alinea las cards de izquierda a derecha */
+    flex-wrap: wrap;
+    /*Permite salto de linea cuando los icons no quepan en contenedor*/
+    justify-content: center;
+    gap: 5px;
+
+}
+
+/* cada icono */
+.tecno {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /*Permite salto de linea cuando las img no quepan en contenedor*/
+    justify-content: center;
+    /*Centra las figure,img*/
+    width: 40px;
+    height: 40px;
+    align-items: center;
+}
+
+figure {
+    margin: 0;
+}
+
+.fig img {
+    width: 40px;
+    /* Ajusta el ancho del ícono */
+    height: 40px;
+    /* Ajusta el alto del ícono */
+    box-shadow: none;
+
+}
+
+
+
+
+/* para celular */
+@media (max-width: 600px) {
+
+    #infoHeader,
+    .card {
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+    }
+
+
+    /* Las posiciones fijas del original para que el celular liste todo hacia abajo */
+    #header {
+        grid-area: initial;
+        /* Resetea el comportamiento de rejilla superior */
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    #personal {
+        flex-direction: column;
+        /* Alinea las cards de izquiersa a derecha */
+    }
+
+    #info {
+        background-color: #E6D5E6;
+        width: 100%;
+    }
+
+
+    .presentacion,
+    .presenProy {
+        font-size: 12px;
+    }
+
+    #tecnologias {
+        display: flex;
+        flex-direction: column;
+        /* Alinea las cards de izquiersa a derecha */
+        align-items: center;
+        /* Reemplaza 'align-self' para centrar las cards horizontalmente */
+        background-color: #8FBC8F;
+        width: 100%;
+        gap: 10px;
+    }
+
+    .titleTecs {
+        font-size: 15px;
+    }
+
+
+    .tipoTec {
+        font-size: 12px;
+    }
+
+}

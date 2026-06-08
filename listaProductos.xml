@@ -1,4 +1,27 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"?>
+<!DOCTYPE productos [
+
+  <!ELEMENT productos (producto+)>
+
+  <!ELEMENT producto (id, nombre, precio, categoria, descripcion, imagen, oferta, precioAnterior?, vendedor)>
+
+  <!ELEMENT id (#PCDATA)>
+  <!ELEMENT nombre (#PCDATA)>
+  <!ELEMENT precio (#PCDATA)>
+  <!ELEMENT categoria (#PCDATA)>
+  <!ELEMENT descripcion (#PCDATA)>
+  <!ELEMENT imagen (#PCDATA)>
+  <!ELEMENT oferta (#PCDATA)>
+  <!ELEMENT precioAnterior (#PCDATA)>
+
+  <!ELEMENT vendedor (nombre, telefono, email, ciudad, ventas)>
+
+  <!ELEMENT telefono (#PCDATA)>
+  <!ELEMENT email (#PCDATA)>
+  <!ELEMENT ciudad (#PCDATA)>
+  <!ELEMENT ventas (#PCDATA)>
+]>
+
 <productos>
   <producto>
     <id>1</id>

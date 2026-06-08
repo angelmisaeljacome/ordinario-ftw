@@ -28,6 +28,7 @@ body {
     flex-direction: column; /* Los elementos se apilan hacia abajo */
     min-height: 100vh;      /* El cuerpo usa el 100% de la altura de la pantalla */
     margin: 0;
+    gap: 10px;
 }
 
 
@@ -145,5 +146,7 @@ Button{
     #header{
         grid-area: initial; /* Resetea el comportamiento de rejilla superior */
         width: 100%;
+        flex-direction: column;
+        align-items: center;
     }
 }
